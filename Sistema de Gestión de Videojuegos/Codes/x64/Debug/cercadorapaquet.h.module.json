@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\CercadoraPaquet.h.obj",
+            "outputs": [
+                "C:\\Users\\marcp\\OneDrive\\Escritorio\\uni\\q5\\inep\\implementacio\\INEP_IMPLEMENTACION\\INEP_IMPLEMENTACION\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\marcp\\OneDrive\\Escritorio\\uni\\q5\\inep\\implementacio\\INEP_IMPLEMENTACION\\INEP_IMPLEMENTACION\\x64\\Debug\\CercadoraPaquet.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "CercadoraPaquet.h",
+                    "source-path": "c:\\users\\marcp\\onedrive\\escritorio\\uni\\q5\\inep\\implementacio\\inep_implementacion\\inep_implementacion\\cercadorapaquet.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
