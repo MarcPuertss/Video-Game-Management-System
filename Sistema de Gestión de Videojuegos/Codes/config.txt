@@ -1,0 +1,5 @@
+dbname=inepo
+user=postgres
+password=Lolo0533
+hostaddr=127.0.0.1
+port=5432
